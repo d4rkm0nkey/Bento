@@ -40,9 +40,9 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Gitlab',
+      icon: 'gitlab',
+      link: 'https://gitlab.relaxdays.de/dashboard/projects',
     },
     {
       id: '2',
@@ -52,9 +52,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Jira',
+      icon: 'feather',
+      link: 'https://jira.relaxdays.de',
     },
     {
       id: '4',
@@ -64,9 +64,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'bookmark',
-      link: 'https://reddit.com',
+      name: 'Confluence',
+      icon: 'trello',
+      link: 'https://confluence.relaxdays.de',
     },
     {
       id: '6',
