@@ -71,8 +71,8 @@ const CONFIG = {
     {
       id: '6',
       name: 'Jira',
-      icon: 'sidebar',
-      link: 'https://jira.relaxdays.de/secure/Dashboard.jspa',
+      icon: 'settings',
+      link: 'about:preferences',
     },
   ],
 
