@@ -105,18 +105,6 @@ const CONFIG = {
         name: 'Urlaub',
         link: 'https://vacation.relaxdays.de/vacation/user',
       },
-      {
-        name: 'Figma',
-        link: 'https://figma.com/',
-      },
-      {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
-      },
-      {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
-      },
     ],
   },
 };
