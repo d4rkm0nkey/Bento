@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Jira',
+      icon: 'sidebar',
+      link: 'https://jira.relaxdays.de/secure/Dashboard.jspa',
     },
   ],
 
@@ -88,26 +88,22 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Halo Kibana',
+        link: 'https://halo-kibana.relaxdays.de',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Enigma Kibana',
+        link: 'https://enigma-kibana.relaxdays.de',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
+        name: 'PPS',
+        link: 'https://pps.relaxdays.de/Account/SignIn',
+      }
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Urlaub',
+        link: 'https://vacation.relaxdays.de/vacation/user',
       },
       {
         name: 'Figma',
